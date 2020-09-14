@@ -17,7 +17,7 @@ def square(a: float) -> float:
 def average(a: float, b: float, c: float) -> float:
     addition = a+b+c
     moyenne = addition/3
-    return 0.0
+    return moyenne
 
 
 def to_radians(angle_degs: float, angle_mins: float, angle_secs: float) -> float:
